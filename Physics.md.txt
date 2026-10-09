@@ -1,0 +1,517 @@
+GCSE Physics Knowledge Base
+Energy
+Energy Stores
+Energy can be stored in:
+
+Thermal stores
+Kinetic stores
+Gravitational potential stores
+Elastic potential stores
+Chemical stores
+Magnetic stores
+Electrostatic stores
+Nuclear stores
+Energy Transfers
+Energy can be transferred by:
+
+Heating
+Radiation
+Electrical work
+Mechanical work
+Conservation of Energy
+Energy cannot be created or destroyed.
+
+Energy can only be transferred between stores.
+
+Efficiency
+Efficiency measures how much useful energy is produced.
+
+Formula
+Efficiency = Useful Output Energy ÷ Total Input Energy
+
+Percentage Efficiency
+Efficiency (%) = (Useful Output ÷ Total Input) × 100
+
+Power
+Power is the rate at which energy is transferred.
+
+Formula
+Power = Energy Transferred ÷ Time
+
+Symbol:
+
+P = Power (W)
+E = Energy (J)
+t = Time (s)
+Equation
+P = E / t
+
+Electricity
+Electric Charge
+Charge is measured in coulombs (C).
+
+Formula
+Charge = Current × Time
+
+Q = I × t
+
+Current
+Current is the rate of flow of charge.
+
+Unit:
+
+Ampere (A)
+Potential Difference
+Potential difference is energy transferred per unit charge.
+
+Unit:
+
+Volt (V)
+Formula
+V = E ÷ Q
+
+Resistance
+Resistance opposes current flow.
+
+Unit:
+
+Ohm (Ω)
+Formula
+V = I × R
+
+Series Circuits
+Properties:
+
+Current is the same everywhere.
+Potential difference is shared.
+Total resistance increases.
+Parallel Circuits
+Properties:
+
+Potential difference is the same across each branch.
+Current is split between branches.
+Total resistance decreases.
+Domestic Electricity
+UK mains electricity:
+
+230 V
+50 Hz AC
+Three wires:
+
+Live Wire
+Brown
+230 V
+Neutral Wire
+Blue
+0 V
+Earth Wire
+Green and yellow
+Safety wire
+Electrical Power
+Formula
+Power = Current × Potential Difference
+
+P = I × V
+
+Particle Model of Matter
+Density
+Density describes how much mass is contained in a given volume.
+
+Formula
+Density = Mass ÷ Volume
+
+ρ = m ÷ V
+
+States of Matter
+Solid
+Particles:
+
+Close together
+Fixed positions
+Vibrate only
+Liquid
+Particles:
+
+Close together
+Can move past one another
+Gas
+Particles:
+
+Far apart
+Move randomly
+Internal Energy
+Internal energy is the total energy contained within the particles of a substance.
+
+It consists of:
+
+Kinetic energy
+Potential energy
+Specific Heat Capacity
+Energy needed to raise the temperature of 1 kg of a substance by 1°C.
+
+Formula
+E = m × c × ΔT
+
+Where:
+
+E = Energy (J)
+m = Mass (kg)
+c = Specific heat capacity
+ΔT = Temperature change (°C)
+Changes of State
+Melting
+Solid → Liquid
+
+Freezing
+Liquid → Solid
+
+Evaporation
+Liquid → Gas
+
+Condensation
+Gas → Liquid
+
+Gas Pressure
+Gas pressure is caused by particles colliding with surfaces.
+
+Increasing temperature increases:
+
+Particle speed
+Frequency of collisions
+Pressure
+Atomic Structure
+Structure of the Atom
+Atoms contain:
+
+Nucleus
+Contains:
+
+Protons
+Neutrons
+Electrons
+Move in shells around the nucleus.
+
+Nuclear Radiation
+Three main types:
+
+Alpha Radiation
+Properties:
+
+Helium nucleus
+Strongly ionising
+Short range
+Stopped by:
+
+Paper
+Beta Radiation
+Properties:
+
+Electron
+Moderately ionising
+Stopped by:
+
+Aluminium
+Gamma Radiation
+Properties:
+
+Electromagnetic wave
+Weakly ionising
+Stopped by:
+
+Thick lead
+Thick concrete
+Half-Life
+Half-life is the time required for the activity or count rate of a radioactive substance to fall to half its original value.
+
+Applications:
+
+Medical tracers
+Thickness monitoring
+Dating rocks
+Nuclear Fission
+A large unstable nucleus splits into smaller nuclei.
+
+Produces:
+
+Energy
+Neutrons
+Used in:
+
+Nuclear power stations
+Nuclear Fusion
+Two small nuclei combine to form a larger nucleus.
+
+Occurs in:
+
+The Sun
+Other stars
+Produces very large amounts of energy.
+
+Forces
+Scalars and Vectors
+Scalar Quantities
+Have magnitude only.
+
+Examples:
+
+Distance
+Speed
+Time
+Energy
+Vector Quantities
+Have magnitude and direction.
+
+Examples:
+
+Velocity
+Force
+Acceleration
+Displacement
+Speed
+Formula
+Speed = Distance ÷ Time
+
+v = s ÷ t
+
+Unit:
+
+m/s
+Distance-Time Graphs
+Gradient represents speed.
+
+Horizontal Line
+Object stationary.
+
+Steeper Gradient
+Higher speed.
+
+Velocity
+Velocity is speed in a given direction.
+
+Acceleration
+Acceleration is the rate of change of velocity.
+
+Formula
+Acceleration = Change in Velocity ÷ Time
+
+a = (v - u) ÷ t
+
+Newton's First Law
+An object will remain at rest or continue moving at constant velocity unless acted upon by a resultant force.
+
+Newton's Second Law
+Force = Mass × Acceleration
+
+F = ma
+
+Newton's Third Law
+For every action there is an equal and opposite reaction.
+
+Weight
+Weight is the force caused by gravity.
+
+Formula
+Weight = Mass × Gravitational Field Strength
+
+W = mg
+
+On Earth:
+
+g ≈ 9.8 N/kg
+
+Momentum
+Momentum is the product of mass and velocity.
+
+Formula
+Momentum = Mass × Velocity
+
+p = mv
+
+Stopping Distance
+Stopping distance = Thinking distance + Braking distance
+
+Factors affecting stopping distance:
+
+Speed
+Fatigue
+Alcohol
+Drugs
+Road conditions
+Vehicle condition
+Waves
+Wave Types
+Transverse Waves
+Oscillations are perpendicular to the direction of travel.
+
+Examples:
+
+Light waves
+Water waves
+Longitudinal Waves
+Oscillations are parallel to the direction of travel.
+
+Examples:
+
+Sound waves
+Wave Measurements
+Amplitude
+Maximum displacement from equilibrium.
+
+Wavelength
+Distance between identical points on adjacent waves.
+
+Frequency
+Number of waves passing a point each second.
+
+Measured in hertz (Hz).
+
+Wave Equation
+Wave Speed = Frequency × Wavelength
+
+v = fλ
+
+Reflection
+Angle of incidence equals angle of reflection.
+
+Refraction
+Refraction occurs when a wave changes speed.
+
+Results:
+
+Direction changes
+Wavelength changes
+The Electromagnetic Spectrum
+Order:
+
+Radio Waves
+Microwaves
+Infrared
+Visible Light
+Ultraviolet
+X-rays
+Gamma Rays
+Radio Waves
+Uses:
+
+Broadcasting
+Communications
+Microwaves
+Uses:
+
+Satellite communications
+Cooking
+Infrared
+Uses:
+
+Heating
+Thermal imaging
+Visible Light
+Allows vision.
+
+Ultraviolet
+Uses:
+
+Security marking
+Fluorescent lamps
+Risks:
+
+Skin damage
+X-rays
+Uses:
+
+Medical imaging
+Risks:
+
+Cell damage
+Gamma Rays
+Uses:
+
+Sterilisation
+Cancer treatment
+Risks:
+
+Cancer
+Sound Waves
+Sound is a longitudinal wave.
+
+Requires a medium:
+
+Solids
+Liquids
+Gases
+Sound cannot travel through a vacuum.
+
+Magnetism
+Permanent Magnets
+Have permanent magnetic fields.
+
+Poles:
+
+North
+South
+Rules:
+
+Opposite poles attract.
+Like poles repel.
+Magnetic Fields
+Magnetic field lines:
+
+Travel from north to south.
+Never cross.
+Electromagnets
+Produced when current flows through a coil.
+
+Strength increases with:
+
+More current
+More turns of wire
+Iron core
+Uses:
+
+Cranes
+Relays
+Electric bells
+Motor Effect
+A force acts on a current-carrying wire in a magnetic field.
+
+Applications:
+
+Electric motors
+Loudspeakers
+Fleming's Left-Hand Rule
+Thumb:
+
+Force
+First Finger:
+
+Field
+Second Finger:
+
+Current
+Generators
+Generators use electromagnetic induction.
+
+Movement between a magnet and a conductor induces a voltage.
+
+Used in:
+
+Power stations
+Wind turbines
+Transformers
+Transformers change voltage.
+
+Step-Up Transformer
+Increases voltage.
+
+Step-Down Transformer
+Decreases voltage.
+
+Transformer Equation
+Vp ÷ Vs = Np ÷ Ns
+
+Where:
+
+Vp = Primary voltage
+Vs = Secondary voltage
+Np = Primary turns
+Ns = Secondary turns

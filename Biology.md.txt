@@ -1,0 +1,585 @@
+GCSE Biology Knowledge Base
+Cell Biology
+Cell Structure
+Cells are the basic units of life.
+
+Animal Cells
+Animal cells contain:
+
+Nucleus
+Cytoplasm
+Cell membrane
+Mitochondria
+Ribosomes
+Plant Cells
+Plant cells contain all the structures found in animal cells plus:
+
+Cell wall
+Chloroplasts
+Permanent vacuole
+Function of Cell Structures
+Nucleus
+Contains genetic material (DNA) and controls cell activities.
+
+Cytoplasm
+Site of most chemical reactions.
+
+Cell Membrane
+Controls movement of substances into and out of the cell.
+
+Mitochondria
+Site of aerobic respiration.
+
+Ribosomes
+Site of protein synthesis.
+
+Cell Wall
+Made from cellulose and strengthens plant cells.
+
+Chloroplasts
+Contain chlorophyll for photosynthesis.
+
+Vacuole
+Contains cell sap and helps support the plant.
+
+Prokaryotic Cells
+Bacteria are prokaryotes.
+
+They contain:
+
+Cytoplasm
+Cell membrane
+Cell wall
+Circular DNA
+Plasmids
+Ribosomes
+They do not contain a nucleus.
+
+Microscopy
+Light Microscopes
+Used to observe cells and tissues.
+
+Magnification Formula
+Magnification = Image Size ÷ Actual Size
+
+Unit Conversions
+1 mm = 1000 μm
+1 μm = 1000 nm
+Cell Differentiation
+Differentiation is the process by which a cell becomes specialised.
+
+Examples:
+
+Sperm Cell
+Adaptations:
+
+Tail for movement
+Many mitochondria
+Acrosome containing enzymes
+Nerve Cell
+Adaptations:
+
+Long axon
+Branched connections
+Insulating myelin sheath
+Muscle Cell
+Adaptations:
+
+Many mitochondria
+Protein fibres for contraction
+Root Hair Cell
+Adaptations:
+
+Large surface area
+Thin cell wall for absorption
+Cell Division
+Chromosomes
+Chromosomes contain genes made from DNA.
+
+Humans have:
+
+23 pairs
+46 chromosomes total
+Mitosis
+Produces two genetically identical daughter cells.
+
+Stages:
+
+DNA replicates.
+Chromosomes line up.
+Cell divides.
+Uses:
+
+Growth
+Repair
+Asexual reproduction
+Stem Cells
+Stem cells are unspecialised cells that can divide and differentiate.
+
+Embryonic Stem Cells
+Can become any type of body cell.
+
+Advantages:
+
+Medical treatments
+Disadvantages:
+
+Ethical concerns
+Adult Stem Cells
+Found in bone marrow.
+
+Used to treat some diseases including leukaemia.
+
+Plant Meristem Cells
+Found in growing regions of plants.
+
+Can develop into any plant tissue.
+
+Transport in Cells
+Diffusion
+Diffusion is the net movement of particles from an area of high concentration to an area of low concentration.
+
+Examples:
+
+Oxygen entering blood from lungs
+Carbon dioxide leaving blood
+Factors affecting diffusion:
+
+Concentration gradient
+Temperature
+Surface area
+Diffusion distance
+Osmosis
+Osmosis is the movement of water molecules through a partially permeable membrane from a dilute solution to a concentrated solution.
+
+In a Dilute Solution
+Water enters the cell.
+
+In a Concentrated Solution
+Water leaves the cell.
+
+Active Transport
+Active transport moves substances against a concentration gradient using energy released by respiration.
+
+Examples:
+
+Root hair cells absorbing minerals
+Small intestine absorbing glucose
+Organisation
+Biological Organisation
+Cells → Tissues → Organs → Organ Systems → Organism
+
+Tissues
+Muscle Tissue
+Contracts to produce movement.
+
+Glandular Tissue
+Produces substances such as enzymes and hormones.
+
+Epithelial Tissue
+Covers surfaces and lines organs.
+
+The Digestive System
+Main organs:
+
+Mouth
+Oesophagus
+Stomach
+Small intestine
+Large intestine
+Liver
+Pancreas
+Enzymes
+Enzymes are biological catalysts.
+
+They speed up reactions without being used up.
+
+Amylase
+Breaks starch into sugars.
+
+Protease
+Breaks proteins into amino acids.
+
+Lipase
+Breaks lipids into fatty acids and glycerol.
+
+Factors Affecting Enzymes
+Temperature
+Too high causes denaturation.
+
+pH
+Every enzyme has an optimum pH.
+
+The Heart and Blood Vessels
+Heart Structure
+The heart contains:
+
+Right atrium
+Right ventricle
+Left atrium
+Left ventricle
+Arteries
+Carry blood away from the heart.
+
+Veins
+Carry blood towards the heart.
+
+Capillaries
+Allow exchange of substances between blood and tissues.
+
+Blood
+Components of blood:
+
+Red Blood Cells
+Carry oxygen using haemoglobin.
+
+White Blood Cells
+Defend against pathogens.
+
+Platelets
+Help blood clot.
+
+Plasma
+Transports dissolved substances.
+
+Coronary Heart Disease
+Occurs when coronary arteries become narrowed.
+
+Treatment:
+
+Stents
+Statins
+Bypass surgery
+Health and Disease
+Health is the physical and mental wellbeing of an individual.
+
+Factors affecting health:
+
+Diet
+Exercise
+Smoking
+Alcohol
+Disease
+Communicable Diseases
+Communicable diseases are caused by pathogens.
+
+Pathogens
+Types:
+
+Bacteria
+Viruses
+Fungi
+Protists
+Viral Diseases
+Measles
+Symptoms:
+
+Fever
+Rash
+Prevented by vaccination.
+
+HIV
+Attacks the immune system.
+
+Can lead to AIDS.
+
+Bacterial Diseases
+Salmonella
+Causes food poisoning.
+
+Gonorrhoea
+Sexually transmitted infection.
+
+Treatable with antibiotics.
+
+Fungal Diseases
+Rose Black Spot
+Damages leaves of rose plants.
+
+Protist Diseases
+Malaria
+Spread by mosquitoes.
+
+Caused by a protist.
+
+Human Defence Systems
+Defences include:
+
+Skin
+Mucus
+Cilia
+Stomach acid
+Vaccination
+Vaccines stimulate white blood cells to produce antibodies.
+
+Advantages:
+
+Prevent disease
+Create herd immunity
+Antibiotics
+Kill bacteria.
+
+Do not kill viruses.
+
+Example:
+
+Penicillin
+Drug Development
+Stages:
+
+Discovery
+Preclinical testing
+Clinical trials
+Approval
+Bioenergetics
+Photosynthesis
+Word Equation:
+
+Carbon dioxide + Water → Glucose + Oxygen
+
+Requirements:
+
+Light
+Water
+Carbon dioxide
+Chlorophyll
+Limiting Factors
+Light intensity
+Carbon dioxide concentration
+Temperature
+Uses of Glucose
+Respiration
+Starch production
+Cellulose production
+Protein synthesis
+Respiration
+Aerobic Respiration
+Word Equation:
+
+Glucose + Oxygen → Carbon dioxide + Water
+
+Produces large amounts of energy.
+
+Anaerobic Respiration
+In muscle cells:
+
+Glucose → Lactic Acid
+
+Produces less energy.
+
+Homeostasis
+Homeostasis is the maintenance of stable internal conditions.
+
+Examples:
+
+Body temperature
+Blood glucose concentration
+Water levels
+Nervous System
+Pathway:
+
+Stimulus → Receptor → Coordinator → Effector → Response
+
+Reflex Actions
+Reflexes are rapid automatic responses.
+
+Reflex Arc:
+
+Stimulus → Receptor → Sensory Neuron → Relay Neuron → Motor Neuron → Effector
+
+Endocrine System
+Hormones are chemical messengers carried in the blood.
+
+Pituitary Gland
+Known as the master gland.
+
+Thyroid Gland
+Controls metabolism.
+
+Pancreas
+Produces insulin.
+
+Adrenal Glands
+Produce adrenaline.
+
+Blood Glucose Regulation
+Insulin
+Lowers blood glucose.
+
+Glucagon
+Raises blood glucose.
+
+Diabetes
+Type 1 Diabetes
+Little or no insulin production.
+
+Treated with insulin injections.
+
+Type 2 Diabetes
+Cells become less responsive to insulin.
+
+Linked to obesity and lifestyle.
+
+Human Reproduction
+Sexual Reproduction
+Involves:
+
+Male gamete
+Female gamete
+Produces variation.
+
+Menstrual Cycle
+Hormones involved:
+
+Oestrogen
+Progesterone
+FSH
+LH
+Contraception
+Methods include:
+
+Condoms
+Contraceptive pill
+Implant
+IUD
+IVF
+In Vitro Fertilisation.
+
+Stages:
+
+Fertility drugs.
+Egg collection.
+Fertilisation in laboratory.
+Embryo transfer.
+Inheritance
+DNA
+DNA contains genetic information.
+
+Structure:
+
+Double helix.
+
+Genes
+Genes code for proteins.
+
+Genome
+The complete genetic material of an organism.
+
+Alleles
+Different forms of the same gene.
+
+Dominant Alleles
+Expressed when present.
+
+Recessive Alleles
+Only expressed when two copies are present.
+
+Inherited Disorders
+Polydactyly
+Dominant disorder.
+
+Cystic Fibrosis
+Recessive disorder.
+
+Variation
+Variation can be:
+
+Genetic
+Environmental
+Both
+Evolution
+Evolution occurs by natural selection.
+
+Process:
+
+Variation exists.
+Competition occurs.
+Best-adapted organisms survive.
+Successful organisms reproduce.
+Beneficial alleles become common.
+Fossils
+Fossils provide evidence for evolution.
+
+Formed when organisms are preserved.
+
+Classification
+Classification organises living organisms.
+
+Carl Linnaeus developed the modern classification system.
+
+Genetic Engineering
+Genes are transferred from one organism to another.
+
+Applications:
+
+Insulin production
+Improved crops
+Ecology
+Ecosystems
+An ecosystem consists of organisms interacting with their environment.
+
+Abiotic Factors
+Non-living factors:
+
+Light
+Temperature
+Water
+pH
+Biotic Factors
+Living factors:
+
+Predators
+Disease
+Competition
+Food Chains
+Producer → Primary Consumer → Secondary Consumer
+
+Food Webs
+Several interconnected food chains.
+
+Biodiversity
+The variety of organisms within an ecosystem.
+
+High biodiversity usually increases stability.
+
+Carbon Cycle
+Processes involved:
+
+Photosynthesis
+Respiration
+Combustion
+Decomposition
+Water Cycle
+Stages:
+
+Evaporation
+Condensation
+Precipitation
+Runoff
+Decomposition
+Carried out by microorganisms.
+
+Decomposers recycle nutrients.
+
+Deforestation
+Effects:
+
+Reduced biodiversity
+Increased carbon dioxide levels
+Habitat destruction
+Global Warming
+Caused mainly by greenhouse gases.
+
+Consequences:
+
+Rising sea levels
+Climate change
+Extreme weather
+Conservation
+Methods include:
+
+Protecting habitats
+Breeding programmes
+Recycling
+Reducing pollution
+Sustainable resource management

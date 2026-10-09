@@ -1,0 +1,529 @@
+GCSE Chemistry Knowledge Base
+Atomic Structure and the Periodic Table
+Atoms
+Atoms are the smallest particles that can exist as elements.
+
+An atom contains:
+
+Protons
+Neutrons
+Electrons
+Relative Charges
+Particle	Charge
+Proton	+1
+Neutron	0
+Electron	-1
+Relative Masses
+Particle	Relative Mass
+Proton	1
+Neutron	1
+Electron	0.0005
+Atomic Number
+The atomic number is the number of protons inside the nucleus.
+
+Example:
+
+Carbon:
+
+Atomic number = 6
+Protons = 6
+Electrons = 6
+Mass Number
+Mass Number = Protons + Neutrons
+
+Example:
+
+Carbon-12:
+
+Protons = 6
+Neutrons = 6
+Mass Number = 12
+Isotopes
+Isotopes are atoms of the same element with:
+
+Same number of protons
+Different number of neutrons
+Examples:
+
+Carbon-12
+Carbon-14
+Applications:
+
+Medical tracers
+Radiocarbon dating
+Electronic Structure
+Electrons occupy shells around the nucleus.
+
+Examples:
+
+Hydrogen:
+
+1
+Oxygen:
+
+2,6
+Calcium:
+
+2,8,8,2
+Development of the Atomic Model
+Dalton
+Atoms were solid spheres.
+
+Thomson
+Discovered electrons.
+
+Proposed the plum pudding model.
+
+Rutherford
+Discovered the nucleus.
+
+Proposed the nuclear model.
+
+Bohr
+Suggested electrons occupy fixed energy levels.
+
+Chadwick
+Discovered neutrons.
+
+The Periodic Table
+Mendeleev
+Mendeleev arranged elements by atomic mass and left gaps for undiscovered elements.
+
+Modern Periodic Table
+Elements are arranged by atomic number.
+
+Periods
+Periods run horizontally.
+
+The period number equals the number of occupied electron shells.
+
+Groups
+Groups run vertically.
+
+Elements in the same group have similar properties.
+
+Group 1: Alkali Metals
+Elements:
+
+Lithium
+Sodium
+Potassium
+Properties:
+
+Soft
+Low density
+Highly reactive
+Reaction with water:
+
+Metal + Water → Metal Hydroxide + Hydrogen
+
+Reactivity increases down the group.
+
+Group 7: Halogens
+Elements:
+
+Fluorine
+Chlorine
+Bromine
+Iodine
+Properties:
+
+Non-metals
+Toxic
+Coloured vapours
+Reactivity decreases down the group.
+
+More reactive halogens displace less reactive halogens from compounds.
+
+Group 0: Noble Gases
+Elements:
+
+Helium
+Neon
+Argon
+Properties:
+
+Very unreactive
+Full outer electron shell
+Uses:
+
+Neon signs
+Helium balloons
+Argon light bulbs
+Bonding
+Ionic Bonding
+Ionic bonding involves transfer of electrons.
+
+Example:
+
+Sodium + Chlorine
+
+Sodium loses one electron.
+
+Chlorine gains one electron.
+
+Produces:
+
+Na+
+Cl-
+Opposite charges attract.
+
+Properties of Ionic Compounds
+High melting points
+Conduct electricity when molten or dissolved
+Usually form crystals
+Covalent Bonding
+Covalent bonds involve shared pairs of electrons.
+
+Examples:
+
+Hydrogen
+Water
+Methane
+Carbon dioxide
+Properties of Small Molecules
+Low melting points
+Low boiling points
+Do not conduct electricity
+Metallic Bonding
+Metals consist of:
+
+Positive ions
+Delocalised electrons
+Properties:
+
+Conduct electricity
+Conduct heat
+Strong
+Malleable
+Structure and Properties
+Diamond
+Each carbon atom forms four covalent bonds.
+
+Properties:
+
+Very hard
+High melting point
+Does not conduct electricity
+Graphite
+Each carbon atom forms three covalent bonds.
+
+Properties:
+
+Conducts electricity
+Layers can slide
+Uses:
+
+Lubricants
+Electrodes
+Graphene
+Single layer of carbon atoms.
+
+Properties:
+
+Strong
+Lightweight
+Conductive
+States of Matter
+Solid
+Particles:
+
+Close together
+Vibrate around fixed positions
+Liquid
+Particles:
+
+Close together
+Move around each other
+Gas
+Particles:
+
+Far apart
+Move randomly
+Quantitative Chemistry
+Conservation of Mass
+Mass is never created or destroyed.
+
+Total mass of reactants equals total mass of products.
+
+Relative Formula Mass
+Mr = Sum of atomic masses.
+
+Example:
+
+CO₂
+
+Carbon = 12
+
+Oxygen = 16
+
+Mr = 12 + 16 + 16
+
+Mr = 44
+
+Moles
+One mole contains:
+
+6.02 × 10²³ particles
+
+Formula
+Moles = Mass ÷ Mr
+
+Chemical Changes
+Reactivity Series
+Most reactive:
+
+Potassium
+Sodium
+Lithium
+Calcium
+Magnesium
+Aluminium
+Carbon
+Zinc
+Iron
+Copper
+Silver
+Gold
+Least reactive.
+
+Extraction of Metals
+Metals above carbon:
+
+Extraction by electrolysis.
+
+Metals below carbon:
+
+Extraction by reduction with carbon.
+
+Acids and Alkalis
+Acids
+Produce hydrogen ions in solution.
+
+Examples:
+
+Hydrochloric acid
+Nitric acid
+Sulfuric acid
+Alkalis
+Produce hydroxide ions in solution.
+
+Examples:
+
+Sodium hydroxide
+Potassium hydroxide
+Neutralisation
+Acid + Base → Salt + Water
+
+Example:
+
+Hydrochloric Acid + Sodium Hydroxide
+
+↓
+
+Sodium Chloride + Water
+
+pH Scale
+0 = Strong Acid
+
+7 = Neutral
+
+14 = Strong Alkali
+
+Electrolysis
+Electrolysis uses electricity to decompose ionic compounds.
+
+Requirements:
+
+Molten ionic compound OR
+Ionic solution
+Electrodes
+Positive electrode = Anode
+
+Negative electrode = Cathode
+
+Energy Changes
+Exothermic Reactions
+Transfer energy to surroundings.
+
+Temperature rises.
+
+Examples:
+
+Combustion
+Neutralisation
+Endothermic Reactions
+Take in energy from surroundings.
+
+Temperature falls.
+
+Examples:
+
+Thermal decomposition
+Photosynthesis
+Rates of Reaction
+Collision Theory
+Reactions occur when particles collide successfully.
+
+Successful collisions require:
+
+Sufficient energy
+Correct orientation
+Factors Affecting Rate
+Temperature
+Higher temperature increases rate.
+
+Concentration
+Higher concentration increases rate.
+
+Pressure
+Higher pressure increases rate.
+
+Surface Area
+Greater surface area increases rate.
+
+Catalysts
+Lower activation energy.
+
+Catalysts are not used up.
+
+Reversible Reactions
+A reversible reaction can proceed in both directions.
+
+Example:
+
+Hydrated Copper Sulfate ⇌ Anhydrous Copper Sulfate + Water
+
+Dynamic Equilibrium
+At equilibrium:
+
+Forward reaction continues
+Reverse reaction continues
+Rates are equal
+Organic Chemistry
+Crude Oil
+Crude oil is a mixture of hydrocarbons.
+
+Hydrocarbons
+Contain only:
+
+Hydrogen
+Carbon
+Alkanes
+General Formula:
+
+CnH2n+2
+
+Examples:
+
+Methane
+Ethane
+Propane
+Butane
+Complete Combustion
+Hydrocarbon + Oxygen
+
+↓
+
+Carbon Dioxide + Water
+
+Incomplete Combustion
+Produces:
+
+Carbon monoxide
+Carbon (soot)
+Fractional Distillation
+Separates hydrocarbons based on boiling point.
+
+Produces:
+
+Refinery gases
+Petrol
+Kerosene
+Diesel
+Fuel oil
+Bitumen
+Cracking
+Breaks long-chain hydrocarbons into:
+
+Alkanes
+Alkenes
+Chemical Analysis
+Pure Substances
+Pure substances melt and boil at fixed temperatures.
+
+Chromatography
+Separates mixtures.
+
+Rf Value
+Rf = Distance moved by substance ÷ Distance moved by solvent
+
+Gas Tests
+Hydrogen
+Lighted splint:
+
+"Pop"
+
+Oxygen
+Glowing splint relights.
+
+Carbon Dioxide
+Turns limewater cloudy.
+
+Chlorine
+Bleaches damp litmus paper.
+
+Chemistry of the Atmosphere
+Early Atmosphere
+Likely formed from volcanic activity.
+
+Contained:
+
+Carbon dioxide
+Water vapour
+Nitrogen
+Oxygen Increase
+Caused by photosynthetic algae and plants.
+
+Greenhouse Gases
+Examples:
+
+Carbon dioxide
+Methane
+Water vapour
+Effects:
+
+Global warming
+Climate change
+Using Resources
+Potable Water
+Water safe to drink.
+
+Requirements:
+
+Low microbes
+Low dissolved salts
+Waste Water Treatment
+Stages:
+
+Screening
+Sedimentation
+Biological treatment
+Corrosion
+Rusting requires:
+
+Water
+Oxygen
+Alloys
+Alloys are mixtures containing metals.
+
+Examples:
+
+Brass
+Bronze
+Steel
+Advantages:
+
+Stronger
+Harder
+More resistant to corrosion
